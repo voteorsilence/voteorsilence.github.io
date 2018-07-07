@@ -4,29 +4,31 @@ body  {
 }
 
 h1  {
-	color: #222222;
-	text-align: justify;
-	letter-spacing: -0.05em;
-	font: bold 140px/130px Arial, Helvetica, sans-serif;
+    color: #222222;
+    text-align: justify;
+    letter-spacing: -0.05em;
+    font: bold 10vw Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
 }
 
 h2  {
-	color: #222222;
-	text-align: justify;
-	letter-spacing: -0.05em;
-	font: bold 80px/70px Arial, Helvetica, sans-serif;
-    padding: 0px 100px 0px 0px;
+    color: #A9A9A9;
+    text-align: justify;
+    letter-spacing: -0.05em;
+    font: bold 5vw Arial, Helvetica, sans-serif;
+    padding: 0px 50px 0px 0px;
+    margin-top: 10px;
 }
 
 div.indent {
-    text-indent: 50px;
+    margin-left: 50px;
 }
 
 h3 {
     color: #222222;
-	text-align: justify;
-	letter-spacing: -0.05em;
-	font: 40px/30px Arial, Helvetica, sans-serif;
+    text-align: justify;
+    letter-spacing: -0.05em;
+    font: 5vw Arial, Helvetica, sans-serif;
 }
 
 #content {
