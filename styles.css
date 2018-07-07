@@ -1,0 +1,34 @@
+body  {
+	margin:0; padding:0; font:10px  Helvetica, Arial, sans-serif; color: #AAAAAA;
+	background-color: #FFFFFF;
+}
+
+h1  {
+	color: #222222;
+	text-align: justify;
+	letter-spacing: -0.05em;
+	font: bold 140px/130px Arial, Helvetica, sans-serif;
+}
+
+h2  {
+	color: #222222;
+	text-align: justify;
+	letter-spacing: -0.05em;
+	font: bold 80px/70px Arial, Helvetica, sans-serif;
+    padding: 0px 100px 0px 0px;
+}
+
+div.indent {
+    text-indent: 50px;
+}
+
+h3 {
+    color: #222222;
+	text-align: justify;
+	letter-spacing: -0.05em;
+	font: 40px/30px Arial, Helvetica, sans-serif;
+}
+
+#content {
+	padding: 50px;
+}
