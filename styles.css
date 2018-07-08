@@ -36,7 +36,9 @@ h4 {
 }
 
 h5 {
+    bottom: 0;
     float: right;
+    margin-right: 1vw;
     font: 1vw Arial, Helvetica, sans-serif;
 }
 
