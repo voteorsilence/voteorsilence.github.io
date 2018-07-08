@@ -1,6 +1,9 @@
 body  {
-	margin:0; padding:0; font:10px  Helvetica, Arial, sans-serif; color: #AAAAAA;
-	background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font: 2vw  Helvetica, Arial, sans-serif;
+    color: #AAAAAA;
+    background-color: #FFFFFF;
 }
 
 h1  {
@@ -33,6 +36,7 @@ h4 {
 
 h5 {
     float: right;
+    font: 1vw Arial, Helvetica, sans-serif;
 }
 
 div.indent {
@@ -40,7 +44,7 @@ div.indent {
 }
 
 #content {
-	padding: 50px;
+	padding: 8vw;
 }
 
 img {
