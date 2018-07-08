@@ -1,25 +1,25 @@
 body  {
     margin: 0;
     padding: 0;
-    font: 2vw  Helvetica, Arial, sans-serif;
+    font: 2vw Helvetica, Arial, sans-serif;
     color: #AAAAAA;
     background-color: #FFFFFF;
 }
 
 h1  {
     color: #222222;
-    text-align: justify;
     letter-spacing: -0.05em;
     font: bold 10vw Arial, Helvetica, sans-serif;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 h2  {
     color: #A9A9A9;
     text-align: justify;
     letter-spacing: -0.05em;
-    font: bold 5vw Arial, Helvetica, sans-serif;
-    margin-top: 10px;
+    font: 5vw Arial, Helvetica, sans-serif;
+    margin-top: 0;
     margin-bottom: 0;
 }
 
@@ -27,11 +27,12 @@ h3 {
     color: #222222;
     text-align: justify;
     letter-spacing: -0.05em;
-    font: 3vw Arial, Helvetica, sans-serif;
+    font: bold 4vw Arial, Helvetica, sans-serif;
 }
 
 h4 {
-    margin-top: -6vw;
+    margin-top: -4vw;
+    font: 2vw Arial, Helvetica, sans-serif;
 }
 
 h5 {
@@ -40,7 +41,9 @@ h5 {
 }
 
 div.indent {
-    margin-left: 4vw;
+    margin-left: 2vw;
+    font: 3vw Arial, Helvetica, sans-serif;
+    letter-spacing: -0.03em;
 }
 
 #content {
