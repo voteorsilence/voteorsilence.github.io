@@ -16,21 +16,44 @@ h2  {
     text-align: justify;
     letter-spacing: -0.05em;
     font: bold 5vw Arial, Helvetica, sans-serif;
-    padding: 0px 50px 0px 0px;
     margin-top: 10px;
-}
-
-div.indent {
-    margin-left: 50px;
+    margin-bottom: 0;
 }
 
 h3 {
     color: #222222;
     text-align: justify;
     letter-spacing: -0.05em;
-    font: 5vw Arial, Helvetica, sans-serif;
+    font: 3vw Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    margin-top: -6vw;
+}
+
+h5 {
+    float: right;
+}
+
+div.indent {
+    margin-left: 50px;
 }
 
 #content {
 	padding: 50px;
+}
+
+img {
+    width: 30vw;
+    height: 30vw;
+}
+
+a:link,
+a:visited {
+  color: #AAAAAA;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
