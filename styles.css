@@ -35,13 +35,6 @@ h4 {
     font: 2vw Arial, Helvetica, sans-serif;
 }
 
-h5 {
-    bottom: 0;
-    float: right;
-    margin-right: 1vw;
-    font: 1vw Arial, Helvetica, sans-serif;
-}
-
 div.indent {
     margin-left: 2vw;
     font: 3vw Arial, Helvetica, sans-serif;
@@ -55,14 +48,4 @@ div.indent {
 img {
     width: 30vw;
     height: 30vw;
-}
-
-a:link,
-a:visited {
-  color: #AAAAAA;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
