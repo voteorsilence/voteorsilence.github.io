@@ -33,6 +33,7 @@ h4 {
     font: 3vw Arial, Helvetica, sans-serif;
     letter-spacing: -0.03em;
     margin-top:3vw;
+    display:block;
 }
 
 h5 {
