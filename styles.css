@@ -24,9 +24,8 @@ h2  {
 
 h3 {
     color: #222222;
-    text-align: justify;
-    letter-spacing: -0.05em;
-    font: bold 4vw Arial, Helvetica, sans-serif;
+    letter-spacing: -0.03em;
+    font: 3vw Arial, Helvetica, sans-serif;
 }
 
 h4 {
@@ -59,8 +58,8 @@ div.timeline {
 }
 
 img {
-    width: 30vw;
-    height: 30vw;
+    width: 15vw;
+    height: 15vw;
 }
 
 a:link,
