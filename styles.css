@@ -16,11 +16,10 @@ h1  {
 
 h2  {
     color: #A9A9A9;
-    text-align: justify;
     letter-spacing: -0.05em;
-    font: 5vw Arial, Helvetica, sans-serif;
+    font: 7vw Arial, Helvetica, sans-serif;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 3vw;
 }
 
 h3 {
@@ -31,9 +30,9 @@ h3 {
 }
 
 h4 {
-    margin-left: -15vw;
-    margin-top: -4vw;
-    font: 2vw Arial, Helvetica, sans-serif;
+    font: 3vw Arial, Helvetica, sans-serif;
+    letter-spacing: -0.03em;
+    margin-top:3vw;
 }
 
 h5 {
@@ -43,10 +42,15 @@ h5 {
 p{
     font: 1vw Arial, Helvetica, sans-serif;
 }
+
 div.indent {
     margin-left: 2vw;
     font: 3vw Arial, Helvetica, sans-serif;
     letter-spacing: -0.03em;
+}
+
+div.timeline {
+    display: inline-block;
 }
 
 #content {
