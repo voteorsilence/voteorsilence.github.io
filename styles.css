@@ -54,12 +54,13 @@ div.timeline {
 }
 
 #content {
-	padding: 8vw;
+    padding: 8vw;
+    padding-top:4vw;
 }
 
 img {
-    width: 15vw;
-    height: 15vw;
+    width: 18vw;
+    height: 18vw;
 }
 
 a:link,
